@@ -1,0 +1,81 @@
+.mumu{
+
+   width: 99%;
+   background-color: #ff0000;
+   list-style-type: none;
+   margin-top: -8px;
+   padding: 0px;
+   position: fixed;
+   box-shadow: 8px 4px 10px;
+   
+   
+   
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+
+    
+
+}
+.active{
+    background-color: white;
+    color: black;
+    text-align: end;
+}
+
+.lll{
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 150px;
+}
+#fish{
+    background-color: black;
+    color: white;
+    padding: 4px 8px;
+    display: inline-block;
+    border: black 1px;
+}
+.amy{
+background-color: white;
+color: black;
+padding: 150px;
+
+}
+.kik{
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+.img2{
+    
+ float: left;
+width: 200px;
+height: 200px;
+}
+.mimi{
+    background-color: white;
+    color: black;
+    padding: 150px;
+    float: none;
+}
+.joy{
+    background-color: grey;
+    color: white;
+    padding: 150px;
+    text-align: center;
+}
+.chidi{
+    background-color: white;
+    padding:150px ;
+    color: black;
+    text-align: center;
+}
